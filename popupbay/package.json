@@ -1,0 +1,14 @@
+{
+  "name": "popupbay",
+  "version": "1.0.0",
+  "description": "Reads client briefs (Excel, Word, PDF), builds a 3D Expo Prestige exhibition booth, and lets you change it through chat.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

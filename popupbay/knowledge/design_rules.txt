@@ -1,0 +1,33 @@
+LAYOUT RULES (Expo Prestige stand planner)
+
+Module and structure: one module is 780 mm. Frames are 3x1 (780 mm), 3x2 (1560), 3x3 (2340), 3x4 (3120); structure height is 2367 mm and depth 300 mm. A wall is filled with frames; the leftover gap is closed with straight connectors of 190, 445 or 780 mm.
+
+Connector choice: choose the straight connector from the floor size and layout every time. There is no fixed rule for the 190 mm connector; review the layout and the structure dimensions before using it. Examples given by the planner: 5000 x 3000 mm with or without a store room uses 445 mm; 6000 x 3000 mm without a store room uses 445 mm; 5000 x 4000 mm without a store room uses 190 mm.
+
+Corners: 90 degree outside connectors make L-shaped and U-shaped booths (rounded corners); 45 degree connectors make angled corners. End caps (curved half-round or flat) hide the hardware at the ends of walls.
+
+Lighting: every X-cross of the truss carries a light, placed in the middle of the cross. Store-room corner rule: no light on the one cross each side of the curved connector; every other cross keeps its light.
+
+Open sides: 1, 2, 3 or 4 sides open. 1 side open (inline) has three walls; 2 sides open (corner stand) is an L; 3 sides open (peninsula) has one back wall; 4 sides open (island) has free-standing elements only. Walls are placed on the closed sides.
+
+Store room: free space behind one diagonal curtain, at the back corner of the stand, on the left or right. Typical size 1.0 x 1.0 m up to 2.0 x 1.5 m. Place it on the wall side and keep the reception and podiums away from it.
+
+Reception counter: foldable, kept in the front third of the stand near the aisle, offset to one side so visitors can see the back wall and TV. Butterfly counter for premium or larger stands, Rapid counter for compact stands.
+
+Podiums and showcases: product podiums (Hype medium or large, round, Eurofold) go in front of the back wall or to the sides, never blocking the aisle. A window showcase is 780 mm wide with two shelves and two spotlights and sits on a wall.
+
+TV: a 42 inch TV is fixed to the same structure on the back wall, centred between the wall graphic and the visitor flow.
+
+Meeting area: round table with chairs in the quieter back or side area, away from the aisle; 4 chairs per table is typical.
+
+Brochure stand: A4 zig-zag brochure stand next to the reception or by the aisle edge.
+
+Branding: the logo and brand name go at the top of the back wall on 780 mm high magnetic graphic panels (1x1 780 x 780 mm, 1x2 1560 x 780 mm). Use the client's brand colours for the wall graphics, an accent colour for highlights, and a neutral or brand-tinted carpet. Keep the headline to six words and do not make product or performance claims.
+
+DESIGN STYLE GUIDE
+
+Larger stands (about 36 m2 and above) can carry a bolder concept: dark premium walls with gold or brand accents, or a full brand-colour gradient, plus showtime lighting. Compact stands (under 20 m2) read better with minimal clean walls, cool daylight lighting and one strong accent colour.
+Corner and island stands should open up the floor: keep tall items on the closed sides and low items such as podiums and tables near the open sides.
+Signature elements make a stand memorable: an entrance arch, an LED video wall, a bar or lounge corner, a feature column, or a hanging brand sign. Use at most two signature elements on stands under 30 m2.
+Keep at least 1.2 m clear walkway at the open side of the stand. Keep floor use under about 60 per cent so the stand does not feel crowded.
+Industrial and engineering clients: strong brand colour, dark or bold walls, product podiums and showcases. Consumer and food brands: warm lighting, friendly colours, tasting counter or lounge. Technology and software brands: minimal or dark walls, cool lighting, LED wall. Pharma and medical: clean minimal white, cool lighting, calm accent, meeting area.
